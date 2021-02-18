@@ -1,3 +1,5 @@
 *.sqlite
 *.suo
 *.cache
+*.json
+*.v2

@@ -10,7 +10,7 @@ namespace SSTEST2
             
             if (1 == 1)
             {
-                Console.WriteLine("uuu  ");
+                Console.WriteLine("uuu");
             }
         }
     }

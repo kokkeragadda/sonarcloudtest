@@ -9,7 +9,7 @@ namespace SSTEST
             Console.WriteLine("Hello World!  gfdgd ghfhfgfgf" );
             if (1 == 1)
             {
-                Console.WriteLine("uuu");
+                Console.WriteLine("uuu  ");
             }
         }
     }

@@ -8,6 +8,10 @@ namespace SSTEST2
         {
             Console.WriteLine("Hello World!"); 
             
+            if (1 == 1)
+            {
+                Console.WriteLine("uuu");
+            }
         }
     }
 }

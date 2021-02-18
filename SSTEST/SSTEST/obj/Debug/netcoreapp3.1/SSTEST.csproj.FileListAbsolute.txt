@@ -1,0 +1,13 @@
+E:\SST\SSTEST\SSTEST\bin\Debug\netcoreapp3.1\SSTEST.exe
+E:\SST\SSTEST\SSTEST\bin\Debug\netcoreapp3.1\SSTEST.deps.json
+E:\SST\SSTEST\SSTEST\bin\Debug\netcoreapp3.1\SSTEST.runtimeconfig.json
+E:\SST\SSTEST\SSTEST\bin\Debug\netcoreapp3.1\SSTEST.runtimeconfig.dev.json
+E:\SST\SSTEST\SSTEST\bin\Debug\netcoreapp3.1\SSTEST.dll
+E:\SST\SSTEST\SSTEST\bin\Debug\netcoreapp3.1\SSTEST.pdb
+E:\SST\SSTEST\SSTEST\obj\Debug\netcoreapp3.1\SSTEST.csprojAssemblyReference.cache
+E:\SST\SSTEST\SSTEST\obj\Debug\netcoreapp3.1\SSTEST.AssemblyInfoInputs.cache
+E:\SST\SSTEST\SSTEST\obj\Debug\netcoreapp3.1\SSTEST.AssemblyInfo.cs
+E:\SST\SSTEST\SSTEST\obj\Debug\netcoreapp3.1\SSTEST.csproj.CoreCompileInputs.cache
+E:\SST\SSTEST\SSTEST\obj\Debug\netcoreapp3.1\SSTEST.dll
+E:\SST\SSTEST\SSTEST\obj\Debug\netcoreapp3.1\SSTEST.pdb
+E:\SST\SSTEST\SSTEST\obj\Debug\netcoreapp3.1\SSTEST.genruntimeconfig.cache

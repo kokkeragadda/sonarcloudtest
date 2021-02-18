@@ -1,15 +1,16 @@
 ﻿using System;
 
-namespace SSTEST
+namespace SSTEST2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!  gfdgd ghfhfgfgf" );
+            Console.WriteLine("Hello World!"); 
+            
             if (1 == 1)
             {
-                Console.WriteLine("uuu  ");
+                Console.WriteLine("uuu");
             }
         }
     }

@@ -7,11 +7,6 @@ namespace SSTEST2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!"); 
-            
-            if (1 == 1)
-            {
-                Console.WriteLine("uuu");
-            }
         }
     }
 }

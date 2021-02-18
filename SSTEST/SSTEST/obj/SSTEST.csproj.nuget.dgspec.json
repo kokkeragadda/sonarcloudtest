@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SST\\SSTEST\\SSTEST\\SSTEST.csproj": {}
+    "E:\\SST\\SSTest\\SSTEST\\SSTEST.csproj": {}
   },
   "projects": {
-    "E:\\SST\\SSTEST\\SSTEST\\SSTEST.csproj": {
+    "E:\\SST\\SSTest\\SSTEST\\SSTEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SST\\SSTEST\\SSTEST\\SSTEST.csproj",
+        "projectUniqueName": "E:\\SST\\SSTest\\SSTEST\\SSTEST.csproj",
         "projectName": "SSTEST",
-        "projectPath": "E:\\SST\\SSTEST\\SSTEST\\SSTEST.csproj",
+        "projectPath": "E:\\SST\\SSTest\\SSTEST\\SSTEST.csproj",
         "packagesPath": "C:\\Users\\Rajesh K\\.nuget\\packages\\",
-        "outputPath": "E:\\SST\\SSTEST\\SSTEST\\obj\\",
+        "outputPath": "E:\\SST\\SSTest\\SSTEST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

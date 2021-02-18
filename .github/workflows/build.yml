@@ -44,5 +44,5 @@ jobs:
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"kokkeragadda_sonarcloudtest" /o:"kokkeragadda" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
           dotnet build "SSTEST/SSTEST.sln"
-          dotnet build "SSTEST/SSTEST2.sln"
+          dotnet build "SSTEST2/SSTEST2.sln"
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
